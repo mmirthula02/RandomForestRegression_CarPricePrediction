@@ -1,6 +1,6 @@
 # Random Forest Regression - Car Price Prediction
 
-Day 10 / 21 of ML with Code warriors
+### Day 10 / 21 of ML with Code warriors
 
 Mini project on predicting car price using Random Forest regression.
 
